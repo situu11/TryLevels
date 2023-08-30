@@ -1,0 +1,9 @@
+name: TryLevels
+version: '${project.version}'
+main: dev.sitek.trylevels.TryLevels
+api-version: '1.13'
+commands:
+  level:
+    aliases: lvl
+  bonus:
+    aliases: b
